@@ -1,7 +1,13 @@
 {
   "build": {
     "env": {
-      "NITRO_PRESET": "vercel"
+      "NITRO_PRESET": "vercel",
+      "VITE_SUPABASE_URL": "https://ovyptkldgvgylybvnkqw.supabase.co",
+      "VITE_SUPABASE_PUBLISHABLE_KEY": "sb_publishable_-Df9_v19MjmhzpBMA6SadA_AXuTb_qf"
     }
+  },
+  "env": {
+    "SUPABASE_URL": "https://ovyptkldgvgylybvnkqw.supabase.co",
+    "SUPABASE_PUBLISHABLE_KEY": "sb_publishable_-Df9_v19MjmhzpBMA6SadA_AXuTb_qf"
   }
 }
